@@ -70,12 +70,12 @@ Workout plans
 # Setup
 1.Clone the repository and install dependencies:
 
-git clone <repository-url>
+--> git clone <repository-url>
 
-pip install -r requirements.txt
+--> pip install -r requirements.txt
 
 2.Place the datasets in the datasets folder and the model file (svc.pkl) in the models folder.
 
 3.Run the application:
 
-python app.py
+--> python app.py
