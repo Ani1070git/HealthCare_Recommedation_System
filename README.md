@@ -23,7 +23,8 @@ User-Friendly Interface:
 
 # Technical Details
 
-Machine Learning Model: Trained Support Vector Classifier (SVC).
+Machine Learning Model: 
+--> Trained Support Vector Classifier (SVC).
 
 Key Components:
 
