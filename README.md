@@ -7,15 +7,15 @@ The Healthcare Recommendation System is a Flask-based web application designed t
 
 Symptom-Based Disease Prediction:
 
-Input symptoms to receive the most probable disease prediction using a trained machine learning model.
+--> Input symptoms to receive the most probable disease prediction using a trained machine learning model.
 
 Comprehensive Recommendations:
 
-Get a detailed description of the disease.
+--> Get a detailed description of the disease.
 
-Learn precautions to prevent worsening.
+--> Learn precautions to prevent worsening.
 
-Access suggested medications, diets, and workout plans.
+--> Access suggested medications, diets, and workout plans.
 
 User-Friendly Interface:
 
