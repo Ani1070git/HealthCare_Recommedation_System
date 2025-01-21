@@ -1,17 +1,7 @@
 # HealthCare_Recommedation_System
 
 # Overview
-The Healthcare Recommendation System is a Flask-based web application that predicts diseases based on user-provided symptoms and offers tailored recommendations, including:
-
-1.Disease descriptions
-
-2.Precautions to be taken
-
-3.Recommended medications
-
-4.Suggested diet plans
-
-5.Customized workout plans
+The Healthcare Recommendation System is a Flask-based web application designed to predict diseases based on user-provided symptoms and deliver personalized recommendations. It offers detailed disease descriptions, precautions to be taken, and recommended medications to aid in treatment. Additionally, it provides tailored diet plans and customized workout routines to promote overall health and recovery. This comprehensive approach ensures users receive accurate predictions and actionable advice to manage their health effectively.
 
 # Features
 
@@ -29,7 +19,7 @@ Access suggested medications, diets, and workout plans.
 
 User-Friendly Interface:
 
-Easy-to-navigate Flask web app with additional sections like "About," "Contact," and "Blog."
+--> Easy-to-navigate Flask web app with additional sections like "About," "Contact," and "Blog."
 
 # Technical Details
 
@@ -37,17 +27,17 @@ Machine Learning Model: Trained Support Vector Classifier (SVC).
 
 Key Components:
 
-Datasets: Symptoms, precautions, workout plans, descriptions, medications, and diets.
+--> Datasets: Symptoms, precautions, workout plans, descriptions, medications, and diets.
 
-Libraries: Flask, NumPy, Pandas, Pickle.
+--> Libraries: Flask, NumPy, Pandas, Pickle.
 
 Prediction Mechanism:
 
-Converts user input into a binary vector.
+--> Converts user input into a binary vector.
 
-Predicts disease using the SVC model.
+--> Predicts disease using the SVC model.
 
-Fetches recommendations from corresponding datasets.
+--> Fetches recommendations from corresponding datasets.
 
 # How It Works
 
@@ -57,15 +47,7 @@ The system predicts the disease and fetches detailed recommendations.
 
 Outputs include:
 
-Disease description
-
-Precautions
-
-Medications
-
-Diet plans
-
-Workout plans
+The outputs of the system include a detailed disease description, along with essential precautions and recommended medications to address the identified condition. Additionally, it provides tailored diet plans and workout routines to support recovery and promote overall well-being.
 
 # Setup
 1.Clone the repository and install dependencies:
