@@ -1,9 +1,9 @@
 # HealthCare_Recommedation_System
 
-# Overview
+# 📜Overview
 The Healthcare Recommendation System is a Flask-based web application designed to predict diseases based on user-provided symptoms and deliver personalized recommendations. It offers detailed disease descriptions, precautions to be taken, and recommended medications to aid in treatment. Additionally, it provides tailored diet plans and customized workout routines to promote overall health and recovery. This comprehensive approach ensures users receive accurate predictions and actionable advice to manage their health effectively.
 
-# Features
+# 🚀Features
 
 Symptom-Based Disease Prediction:
 
@@ -21,7 +21,7 @@ User-Friendly Interface:
 
 --> Easy-to-navigate Flask web app with additional sections like "About," "Contact," and "Blog."
 
-# Technical Details
+# 🛠️Technical Details
 
 Machine Learning Model: 
 
@@ -41,7 +41,7 @@ Prediction Mechanism:
 
 --> Fetches recommendations from corresponding datasets.
 
-# How It Works
+# ⚙️How It Works
 
 Enter symptoms (e.g., "itching, skin_rash, fatigue") into the input field.
 
@@ -51,7 +51,7 @@ Outputs include:
 
 The outputs of the system include a detailed disease description, along with essential precautions and recommended medications to address the identified condition. Additionally, it provides tailored diet plans and workout routines to support recovery and promote overall well-being.
 
-# Setup
+# 📌Setup
 1.Clone the repository and install dependencies:
 ```
 git clone
